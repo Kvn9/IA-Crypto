@@ -1,0 +1,9 @@
+yfinance
+tensorflow
+scikit-learn
+fastapi
+uvicorn
+websockets
+pandas
+numpy
+joblib
